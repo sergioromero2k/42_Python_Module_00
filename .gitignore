@@ -1,1 +1,11 @@
-./venv
+# Entorno virtual
+venv/
+.env/
+.venv/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# Flake8
+.flake8
