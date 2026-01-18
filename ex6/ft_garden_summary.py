@@ -1,4 +1,8 @@
 def ft_garden_summary():
+    """
+    Shows a summary of the garden its name, plant count,
+    and status.
+    """
     enter_garden = input("Enter garden name: ")
     enter_plants = input("Enter number of plants: ")
     print(f"Garden:: {enter_garden}")

@@ -1,4 +1,7 @@
 def ft_harvest_total():
+    """
+    Asks for haverst weights for 3 days and calculates the total.
+    """
     day_1 = int(input("Day 1 harvest: "))
     day_2 = int(input("Day 2 harvest: "))
     day_3 = int(input("Day 3 harvest: "))
